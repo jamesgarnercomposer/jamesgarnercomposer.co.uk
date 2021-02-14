@@ -32,7 +32,7 @@ layout: default
                 {% endif %}
               </div>
               {% if item.description %}
-                <div>{{ item.description }}</div>
+                <div>{{ item.description | markdownify | remove: "<p>" | remove: "</p>" }}</div>
               {% endif %}
             </div>
           </button>

@@ -93,7 +93,7 @@ Required fields:
 
 Optional fields:
 
-- **`description`**: Displayed below the `title`.
+- **`description`**: Displayed below the `title`. It accepts Markdown syntax.
 - **`footnote`**: Last paragraph displayed in grey after the music item content.
   It accepts Markdown syntax.
 - **`subtitle`**: Text in grey displayed next to the `title` and `year` on the
