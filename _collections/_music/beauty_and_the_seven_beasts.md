@@ -7,7 +7,7 @@ footnote: |
   Conductor: Berrak Dyer
 subtitle: — co-composer
 title: Beauty and the Seven Beasts
-year: 2021
+year: "2021"
 ---
 
 For soloists and chamber ensemble\

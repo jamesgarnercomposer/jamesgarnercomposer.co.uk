@@ -1,8 +1,8 @@
 ---
-category: orchestral 
+category: orchestral
 description: For piano and sinfonietta
 title: Concertantonio
-year: 2013
+year: "2013"
 ---
 
 Written for Antonio Oyarzabal

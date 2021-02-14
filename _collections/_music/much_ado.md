@@ -6,7 +6,7 @@ footnote: |
   Director: Amanda Kellock\
   Conductor: Stephen Hargreaves
 title: Much Ado
-year: 2022
+year: "2022"
 ---
 
 For soloists, chorus and orchestra\

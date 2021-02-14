@@ -5,7 +5,7 @@ footnote: |
   Original Direction: Anna Pool\
   Original Production Design: Anna Driftmier
 title: Dust Child
-year: 2016
+year: "2016"
 ---
 
 For soprano, mezzo-soprano, baritone and string trio with percussion doublings\

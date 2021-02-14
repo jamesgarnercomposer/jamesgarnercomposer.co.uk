@@ -3,7 +3,7 @@ category: vocal
 description: For voice and piano
 subtitle: from Creative Madness
 title: Two Songs
-year: 2014
+year: "2014"
 ---
 
 _Inject Some Happiness_\

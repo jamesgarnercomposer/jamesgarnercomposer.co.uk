@@ -5,7 +5,7 @@ footnote: |
   Original Direction: Anna Pool\
   Original Production Design: Anna Driftmier
 title: Seven Velvet Suits
-year: 2016
+year: "2016"
 ---
 
 For baritone and piano\

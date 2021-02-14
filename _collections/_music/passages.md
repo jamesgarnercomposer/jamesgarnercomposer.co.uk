@@ -1,8 +1,8 @@
 ---
-category: orchestral 
+category: orchestral
 description: For symphony orchestra
 title: Passages
-year: 2015
+year: "2015"
 ---
 
 Duration: 5’\

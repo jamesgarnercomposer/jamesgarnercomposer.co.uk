@@ -5,7 +5,7 @@ footnote: |
   Original Direction: Anna Pool\
   Original Production Design: Anna Driftmier
 title: East o’ the Sun, West o’ the Moon
-year: 2014
+year: "2014; rev. 2017"
 ---
 
 for 8 singers and 8-piece ensemble\
