@@ -166,13 +166,13 @@ Example:
 
 ```yaml
 past:
-  - country: 🇬🇧 UK
+  - country: UK
     date: Summer 1990
     location: Place Name
     organisation: Organisation
     role: — role
     title: A _Work_ Title
-  - country: 🇬🇧 UK
+  - country: UK
     date: Spring 1981
     location: Place Name
     organisation: Organisation
@@ -180,7 +180,7 @@ past:
     title: Event Title
 
 upcoming:
-  - country: 🇬🇧 UK
+  - country: UK
     date: 2099
     location: Place Name
     organisation: Organisation
