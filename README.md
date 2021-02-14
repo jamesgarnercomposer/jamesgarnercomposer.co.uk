@@ -122,11 +122,11 @@ To add a multi-line footnote, use:
 ```yaml
 footnote: |
   Line 1: some text.\
-  Line 2
+  Line 2.
 ```
 
 (_Note: in a multi-line footnote, lines with colons don't need to be enclosed in
-double quotes._)
+double quotes, as shown in 'Line 1' above._)
 
 ### Events Page
 
