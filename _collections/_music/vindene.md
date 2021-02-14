@@ -5,7 +5,7 @@ title: Vindene
 year: 2014
 ---
 
-Written for players of Aurora Orchestra
+Written for players of Aurora Orchestra\
 Duration: 1'20"\
 <br>
 
