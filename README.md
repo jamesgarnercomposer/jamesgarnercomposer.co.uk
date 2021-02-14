@@ -84,7 +84,7 @@ descending order by year within each category.
 
 Required fields:
 
-- **`category`**: Must match a [music category](#music-category) ID.
+- **`category`**: Must match a [music category](#music-categories) ID.
 - **`title`**: Displayed in bold.
 - **`year`**: Displayed inside brackets and in bold next to the `title` on the
   right. It _must_ be enclosed in brackets if it only includes numbers (i.e. not
