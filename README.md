@@ -117,6 +117,17 @@ year: 2021
 Music item content.
 ```
 
+To add a multi-line footnote, use:
+
+```yaml
+footnote: |
+  Line 1: some text.\
+  Line 2
+```
+
+(_Note: in a multi-line footnote, lines with colons don't need to be enclosed in
+double quotes._)
+
 ### Events Page
 
 Events are [data](https://jekyllrb.com/docs/datafiles/) properties defined in
@@ -247,4 +258,15 @@ image to display small text in grey with the image copyright notice.
 ```html
 ![Image description](image_url)
 <div class="image-footnote">© 2021 Image Author</div>
+```
+
+### Line Breaks
+
+To add a line break after a paragraph in Markdown, use:
+
+```html
+Paragraph text.\
+<br>
+
+Rest of content.
 ```
