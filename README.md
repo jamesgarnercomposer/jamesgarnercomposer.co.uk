@@ -87,7 +87,8 @@ Required fields:
 - **`category`**: Must match a [music category](#music-category) ID.
 - **`title`**: Displayed in bold.
 - **`year`**: Displayed inside brackets and in bold next to the `title` on the
-  right.
+  right. It _must_ be enclosed in brackets if it only includes numbers (i.e. not
+  alphanumeric).
 
 (_Note: `title` needs to be enclosed in double quotes if it includes a colon._)
 
@@ -111,15 +112,18 @@ description: Music item description
 footnote: Music item footnote.
 subtitle: — from _Work Title_
 title: Music Item Title
-year: 2021
+year: "2021"
 ---
 
 Music item content.
 ```
 
-To add a multi-line footnote, use:
+To add a multi-line description or footnote, use:
 
 ```yaml
+description: |
+  Line 1: some text.\
+  Line 2.
 footnote: |
   Line 1: some text.\
   Line 2.
