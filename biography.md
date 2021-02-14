@@ -2,7 +2,7 @@
 title: Biography - James Garner
 ---
 
-James is a composer, musical director and educator. His work has been performed in the UK, Canada, Austria and Russia, at venues such as Kings Place, Arcola Theatre, Barbican Cinema, Théâtre Paradoxe and Stanislavsky Music Theatre Moscow.
+James is a composer, educator and musical director. His work has been performed in the UK, Canada, Austria and Russia, at venues such as Kings Place, Arcola Theatre, Barbican Cinema, Théâtre Paradoxe and Stanislavsky Music Theatre Moscow.
 
 His stage works include _Dust Child_ (English Touring Opera), _Seven Velvet Suits_ (workshOPERA/BasicSpace), _East o’ the Sun, West o’ the Moon_ (Le Festival B!NGE & Tête à Tête) and incidental music for Chekhov’s _Three Sisters_ (Milton Court Theatre). His next major work, _Much Ado_ – previewed at the Association for Opera in Canada’s 2018 Summit and at the 2019 Opera NUOVA Festival in Alberta – is commissioned by and in development with Opera McGill, who will give its world premiere in 2022 in Montréal.
 
