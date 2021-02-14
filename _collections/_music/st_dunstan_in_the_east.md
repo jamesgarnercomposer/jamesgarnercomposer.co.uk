@@ -1,5 +1,5 @@
 ---
-category: solo and chamber 
+category: solo_and_chamber 
 description: For solo piano with reverb
 title: St Dunstan in the East
 year: 2015
