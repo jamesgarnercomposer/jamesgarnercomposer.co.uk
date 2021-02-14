@@ -1,0 +1,26 @@
+<!-- Desktop (>= lg) -->
+<nav class="bg-warning d-lg-block d-none navbar navbar-expand navbar-light">
+  <div class="container-fluid">
+    <ul class="mx-auto navbar-nav text-uppercase">
+      {% include nav_items.html %}
+    </ul>
+  </div>
+</nav>
+
+<!-- Mobile (< lg) -->
+<nav class="d-lg-none navbar navbar-dark bg-dark">
+  <div class="container-fluid flex-nowrap">
+    <div class="navbar-brand">
+      <a class="letter-spacing text-decoration-none text-reset text-uppercase" href="/">James Garner</a>
+      <div class="fs-6 text-lowercase text-white-50">Composer • Educator • Musical Director</div>
+    </div>
+    <button aria-controls="header-navbar" aria-expanded="false" aria-label="Toggle navigation menu" class="border-0 navbar-toggler" data-bs-target="#header-navbar" data-bs-toggle="collapse" type="button">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  </div>
+  <div class="collapse navbar-collapse px-2" id="header-navbar">
+    <ul class="navbar-nav px-1 text-uppercase">
+      {% include nav_items.html %}
+    </ul>
+  </div>
+</nav>

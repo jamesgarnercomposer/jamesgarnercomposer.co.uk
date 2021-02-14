@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<!-- Desktop (>= lg) -->
+<ul class="d-lg-flex d-none nav nav-pills text-uppercase">
+  {% include event_categories.html %}
+</ul>
+
+<!-- Mobile (< lg) -->
+<div class="d-lg-none dropdown">
+  <button aria-expanded="false" class="btn btn-warning dropdown-toggle text-uppercase" data-bs-toggle="dropdown" id="dropdown-event-category" type="button">
+    {{ page.category }}
+  </button>
+  <ul class="dropdown-menu text-uppercase" aria-labelledby="dropdown-event-category">
+    {% include event_categories.html %}
+  </ul>
+</div>
+
+<ul class="list-group list-group-flush mt-4">
+  {% for event in site.data.events[page.category] %}
+    <li class="list-group-item">
+      <div class="text-secondary">{{ event.date }}</div>
+      <div>
+        <span class="fw-bold">{{ event.title | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+        {% if event.role %}
+          <span class="ms-1 text-secondary">{{ event.role }}</span>
+        {% endif %}
+      </div>
+      {% if event.organisation %}
+        <div>{{ event.organisation }}</div>
+      {% endif %}
+      {% if event.location %}
+        <div>{{ event.location }}</div>
+      {% endif %}
+      {% if event.country %}
+        <div>{{ event.country }}</div>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

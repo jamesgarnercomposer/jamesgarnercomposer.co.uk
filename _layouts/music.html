@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<!-- Desktop (>= lg) -->
+<ul class="d-lg-flex d-none nav nav-pills text-uppercase">
+  {% include music_categories.html %}
+</ul>
+
+<!-- Mobile (< lg) -->
+<div class="d-lg-none dropdown">
+  <button aria-expanded="false" class="btn btn-warning dropdown-toggle text-uppercase" data-bs-toggle="dropdown" id="dropdown-music-category" type="button">
+    {{ site.data.music_categories[page.category].title }}
+  </button>
+  <ul aria-labelledby="dropdown-music-category" class="dropdown-menu text-uppercase">
+    {% include music_categories.html %}
+  </ul>
+</div>
+
+<div class="accordion accordion-flush my-3" id="music-accordion">
+  {% assign music = site.music | sort: "year" | reverse %}
+  {% for item in music %}
+    {% if item.category == page.category %}
+      <div class="accordion-item border-top mt-3 pt-3">
+        <h2 class="accordion-header" id="accordion-heading-{{ forloop.index }}">
+          <button aria-controls="{{ forloop.index }}" aria-expanded="false" class="accordion-button align-items-start border-0 collapsed justify-content-start py-0" data-bs-target="#accordion-item-{{ forloop.index }}" data-bs-toggle="collapse" type="button">
+            <div class="pe-2 text-start">
+              <div class="mb-1">
+                <span class="fw-bold">{{ item.title }} ({{ item.year }})</span>
+                {% if item.subtitle %}
+                  <span class="ps-1 text-secondary">{{ item.subtitle | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+                {% endif %}
+              </div>
+              {% if item.description %}
+                <div>{{ item.description }}</div>
+              {% endif %}
+            </div>
+          </button>
+        </h2>
+        <div aria-labelledby="accordion-heading-{{ forloop.index }}" data-bs-parent="#music-accordion" class="accordion-collapse border-0 collapse" id="accordion-item-{{ forloop.index }}">
+          <div class="accordion-body py-0">
+            {{ item.content }}
+            {% if item.footnote %}
+              <div class="mt-3 text-secondary">{{ item.footnote | markdownify | remove: "<p>" | remove: "</p>" }}</div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>

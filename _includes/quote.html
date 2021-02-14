@@ -1,0 +1,8 @@
+<figure class="ps-4">
+  <blockquote class="blockquote fs-6">
+    {{ include.text | markdownify | remove: "<p>" | remove: "</p>" }}
+  </blockquote>
+  <figcaption class="blockquote-footer fs-6">
+    {{ include.quotee | markdownify | remove: "<p>" | remove: "</p>" }}
+  </figcaption>
+</figure>

@@ -1,0 +1,11 @@
+collections:
+  - music
+collections_dir: _collections
+defaults:
+  -
+    values:
+      layout: default
+sass:
+  style: expanded
+title: James Garner
+url: "https://www.jamesgarnercomposer.co.uk"
