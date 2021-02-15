@@ -8,7 +8,7 @@ year: "2020"
 
 For mezzo-soprano, baritone and piano\
 Libretto by David Parry\
-Duration: 6’\
+Duration: 4’\
 Commissioned by The Opera Story for “Episodes”, winner of the RPS Inspiration Award 2020.\
 <br>
 
