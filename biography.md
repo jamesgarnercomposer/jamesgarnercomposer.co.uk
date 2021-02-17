@@ -15,5 +15,5 @@ This Spring, James will co-compose a new commission for The Opera Story (Fedora 
 James studied at the Guildhall School of Music & Drama, where he was a Worshipful Company of Goldsmiths scholar, and received the Mary Ryan Composition Award 2013 and the Sydney Vale Award. In 2020, he also collaborated with David Parry on The Opera Story’s _Episodes_, a digital series which has since been recognised with the RPS Inspiration Award.\
 <br>
 
-![James Garner performing at the piano]({{ "/assets/images/biography_photo.png" | relative_url }})
+![James Garner performing at the piano](/assets/images/biography_photo.png)
 <div class="image-footnote">© 2020 Natalia Malysheva</div>

@@ -5,14 +5,14 @@
   <!-- Desktop (>= lg) -->
   <li class="d-lg-inline d-none nav-item">
     {% if id == page.category %}
-      <a aria-current="true" class="nav-link active" href="{{ '/music/' | append: id | relative_url }}">{{ title }}</a>
+      <a aria-current="true" class="nav-link active" href="/music/{{ id }}">{{ title }}</a>
     {% else %}
-      <a class="nav-link" href="{{ '/music/' | append: id | relative_url }}">{{ title }}</a>
+      <a class="nav-link" href="/music/{{ id }}">{{ title }}</a>
     {% endif %}
   </li>
 
   <!-- Mobile (<lg) -->
   <li class="d-lg-none">
-    <a class="dropdown-item" href="{{ '/music/' | append: id | relative_url }}">{{ title }}</a>
+    <a class="dropdown-item" href="/music/{{ id }}">{{ title }}</a>
   </li>
 {% endfor %}

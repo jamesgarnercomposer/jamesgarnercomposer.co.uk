@@ -2,7 +2,7 @@
 title: James Garner Composer
 ---
 
-![James Garner's headshot]({{ "/assets/images/cover_photo.png" | relative_url }})
+![James Garner's headshot](/assets/images/cover_photo.png)
 <div class="image-footnote">© 2018 Gordon Scammell</div>
 
 <div class="carousel carousel-dark carousel-fade col mt-2 slide" data-bs-ride="carousel">
