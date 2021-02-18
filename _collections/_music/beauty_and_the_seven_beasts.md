@@ -11,4 +11,4 @@ year: "2021"
 ---
 
 For soloists and chamber ensemble\
-Commissioned by The Opera Story, shortlisted for the Fedora Opera Prize Shortlist 2021
+Commissioned by The Opera Story; shortlisted for the Fedora Opera Prize 2021
