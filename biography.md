@@ -10,7 +10,7 @@ As an educator, James has delivered projects for Opera North, Stanislavsky Music
 
 As a musical director, he most recently collaborated with stage director Miranda Cromwell on _Dead Equal_ (Summerhall), and previously with Anna Pool on _These Wondering Stones_ (Barbican Centre/Culture Mile) and _SCRAWW_ (Trebah Gardens). He also assisted the conductor Richard Baker on _4.48 Psychosis_ (ROH/Lyric Hammersmith), _Illusions_ featuring David Hoyle (RFH/PRS New Music Biennial) and, in 2020, he consulted on the BBC Four documentary, _Opera Mums with Bryony Kimmings_ (Tigerlily Productions). 
 
-This Spring, James will co-compose a new commission for The Opera Story (Fedora Prize Shortlist 2021), devise and lead Opera North’s new composition programme for schools in the North of England, and create a new concert work for the guitarist George Tarlton.
+2021/22 sees the premiere of a new multi-authored chamber work from The Opera Story (Fedora Prize Shortlist 2021), the creation and recording of several new concert works, as well as the continued development and leadership of Opera North's school composition programme, in collaboration with members of the Orchestra of Opera North.
 
 James studied at the Guildhall School of Music & Drama, where he was a Worshipful Company of Goldsmiths scholar, and received the Mary Ryan Composition Award 2013 and the Sydney Vale Award. He previously co-founded workshOPERA, serving as musical director from 2014-17, during which the company was nominated for a New British Music Theatre Award. In 2020, he also collaborated with David Parry on The Opera Story’s _Episodes_, a digital series which has since been recognised with the RPS Inspiration Award.\
 <br>
