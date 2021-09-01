@@ -18,7 +18,7 @@ $iconPlus: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' vie
     transition: none;
   }
 
-  &:focus-visible::after {
+  &:focus::after {
     outline: var(--bs-primary) auto;
   }
 
