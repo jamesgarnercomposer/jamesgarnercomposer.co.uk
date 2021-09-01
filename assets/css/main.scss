@@ -55,9 +55,17 @@ body {
   color: var(--bs-dark);
 }
 
+footer .text-secondary {
+  color: var(--bs-gray-700) !important;
+}
+
 footer .container,
 main.container {
   max-width: 960px;
+}
+
+header .d-lg-block .nav-item {
+  margin: 0 10px;
 }
 
 html {
