@@ -5,21 +5,6 @@ This website is built using [Jekyll](https://jekyllrb.com/) and
 [Markdown](https://github.github.com/gfm/) and [YAML](https://yaml.org/) for
 content and data formatting.
 
-- [Pages](#pages)
-- [Home Page](#home-page)
-- [Biography Page](#biography-page)
-- [Music Page](#music-page)
-    - [Music Categories](#music-categories)
-    - [Music Items](#music-items)
-- [Events Page](#events-page)
-- [Plugins & Helpers](#plugins--helpers)
-    - [SoundCloud](#soundcloud)
-    - [Vimeo](#vimeo)
-    - [YouTube](#youtube)
-    - [Quotes](#quotes)
-    - [Image Copyright](#image-copyright)
-    - [Line Breaks](#line-breaks)
-
 ## Pages
 
 Pages should use a `.md` file extension in order to enable Markdown syntax.
