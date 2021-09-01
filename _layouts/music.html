@@ -21,7 +21,7 @@ layout: default
   {% assign music = site.music | sort: "year" | reverse %}
   {% for item in music %}
     {% if item.category == page.category %}
-      <div class="accordion-item border-top mt-3 pt-3">
+      <div class="accordion-item border-bottom-0 border-top mt-3 pt-3">
         <h2 class="accordion-header" id="accordion-heading-{{ forloop.index }}">
           <button aria-controls="{{ forloop.index }}" aria-expanded="false" class="accordion-button align-items-start border-0 collapsed justify-content-start py-0" data-bs-target="#accordion-item-{{ forloop.index }}" data-bs-toggle="collapse" type="button">
             <div class="pe-2 text-start">
