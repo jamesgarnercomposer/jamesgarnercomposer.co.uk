@@ -206,13 +206,6 @@ Required fields:
   on the 'Share' button. The track ID is in the `url` parameter following
   `https%3A//api.soundcloud.com/tracks/`.
 
-Optional fields:
-
-- **`height`**: A number defining the player's height in pixels (no unit
-  required). Defaults to `166`.
-- **`width`**: A number defining the player's width in pixels (no unit
-  required). Defaults to `100%`.
-
 ### Vimeo
 
 To include a Vimeo video, use:

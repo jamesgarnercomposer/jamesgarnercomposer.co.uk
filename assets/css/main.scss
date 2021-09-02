@@ -72,6 +72,10 @@ html {
   background-color: var(--bs-dark);
 }
 
+iframe {
+  width: 100%;
+}
+
 .image-footnote {
   color: var(--bs-secondary);
   font-size: smaller;
@@ -113,6 +117,5 @@ img {
     left: 0;
     position: absolute;
     top: 0;
-    width: 100%;
   }
 }
