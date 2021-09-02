@@ -21,20 +21,20 @@ layout: default
   {% assign music = site.music | sort: "year" | reverse %}
   {% for item in music %}
     {% if item.category == page.category %}
-      <div class="accordion-item border-bottom-0 border-top mt-3 pt-3">
+      <div class="accordion-item border-0 border-top mt-3 pt-3">
         <h2 class="accordion-header" id="accordion-heading-{{ forloop.index }}">
-          <button aria-controls="{{ forloop.index }}" aria-expanded="false" class="accordion-button align-items-start border-0 collapsed justify-content-start py-0" data-bs-target="#accordion-item-{{ forloop.index }}" data-bs-toggle="collapse" type="button">
-            <div class="pe-2 text-start">
-              <div class="mb-1">
+          <button aria-controls="accordion-item-{{ forloop.index }}" aria-expanded="false" class="accordion-button align-items-start border-0 collapsed container justify-content-start py-0" data-bs-target="#accordion-item-{{ forloop.index }}" data-bs-toggle="collapse" type="button">
+            <span class="pe-2 row row-cols-1">
+              <span class="col mb-1">
                 <span class="fw-bold">{{ item.title }} ({{ item.year }})</span>
                 {% if item.subtitle %}
                   <span class="ps-1 text-secondary">{{ item.subtitle | markdownify | remove: "<p>" | remove: "</p>" }}</span>
                 {% endif %}
-              </div>
+              </span>
               {% if item.description %}
-                <div>{{ item.description | markdownify | remove: "<p>" | remove: "</p>" }}</div>
+                <span class="col">{{ item.description | markdownify | remove: "<p>" | remove: "</p>" }}</span>
               {% endif %}
-            </div>
+            </span>
           </button>
         </h2>
         <div aria-labelledby="accordion-heading-{{ forloop.index }}" data-bs-parent="#music-accordion" class="accordion-collapse border-0 collapse" id="accordion-item-{{ forloop.index }}">
