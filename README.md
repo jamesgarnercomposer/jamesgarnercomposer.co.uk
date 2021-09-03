@@ -230,6 +230,27 @@ Required fields:
 
 - **`video_id`**: Can be found in the YouTube video URL in the `v` parameter.
 
+### Links
+
+To add an internal link, use:
+
+```markdown
+[text](path/url)
+```
+
+To add an external link, use:
+
+```markdown
+[text](url){:rel="noreferrer"}
+```
+
+If the content linked is authored by a third party, the `nofollow` value should
+also be added to the `rel` attribute:
+
+```markdown
+[text](url){:rel="nofollow noreferrer"}
+```
+
 ### Quotes
 
 To include a quote, use:
