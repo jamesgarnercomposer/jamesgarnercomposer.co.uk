@@ -2,12 +2,12 @@
 category: stage
 description: Chamber opera in two acts
 footnote: |
-  World Premiere: 2021, Bussey Building, Peckham, London\
+  World Premiere: 2022, Bussey Building, Peckham, London\
   Director: James Hurley\
   Conductor: Berrak Dyer
 subtitle: — co-composer
 title: Beauty and the Seven Beasts
-year: "2021"
+year: "2022"
 ---
 
 For soloists and chamber ensemble\
