@@ -90,14 +90,30 @@ img {
   letter-spacing: 15px;
 }
 
-.nav-link.active {
-  background-color: $blue-800 !important;
+.nav .nav-link {
+  color: $blue-800;
+
+  &.active {
+    background-color: $blue-800;
+  }
 }
 
-.nav-item a,
-.nav-item a:focus,
-.nav-item a:hover {
-  color: $blue-800;
+.navbar {
+  &.navbar-dark a.nav-link {
+    &,
+    &:focus,
+    &:hover {
+      color: var(--bs-white);
+    }
+  }
+
+  &.navbar-light a.nav-link {
+    &,
+    &:focus,
+    &:hover {
+      color: var(--bs-dark);
+    }
+  }
 }
 
 .navbar-brand {
