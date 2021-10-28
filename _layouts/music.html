@@ -23,7 +23,7 @@ layout: default
     {% if item.category == page.category %}
       <div class="accordion-item border-0 border-top mt-3 pt-3">
         <h2 class="accordion-header" id="accordion-heading-{{ forloop.index }}">
-          <button aria-controls="accordion-item-{{ forloop.index }}" aria-expanded="false" class="accordion-button align-items-start border-0 collapsed container justify-content-start py-0" data-bs-target="#accordion-item-{{ forloop.index }}" data-bs-toggle="collapse" type="button">
+          <button aria-controls="accordion-item-{{ forloop.index }}" aria-expanded="false" class="accordion-button align-items-start border-0 collapsed container-fluid justify-content-start py-0" data-bs-target="#accordion-item-{{ forloop.index }}" data-bs-toggle="collapse" type="button">
             <span class="pe-2 row row-cols-1">
               <span class="col mb-1">
                 <span class="fw-bold">{{ item.title }} ({{ item.year }})</span>
