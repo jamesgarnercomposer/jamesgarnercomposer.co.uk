@@ -7,5 +7,5 @@ title: Numb Spicy
 year: "2022"
 ---
 
-Commissioned by Rose Hinton and Jonathan Ayling for Amuse-Bouches, a new collection of violin-cello miniatures\
+Commissioned by Rose Hinton and Jonathan Ayling for 'Amuse-Bouches', a new collection of violin-cello miniatures.\
 Duration: 1'
