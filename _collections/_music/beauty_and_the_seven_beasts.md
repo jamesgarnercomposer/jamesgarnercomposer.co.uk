@@ -2,7 +2,7 @@
 category: stage
 description: Multimedia opera in two acts
 footnote: |
-  World Premiere: 2022, Brixton Jamm, London\
+  World Premiere: 06/04/22, Brixton Jamm, London\
   Director: James Hurley\
   Conductor: Berrak Dyer
 subtitle: — composer of 'Wrath'
