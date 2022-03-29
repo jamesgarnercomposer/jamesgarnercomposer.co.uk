@@ -158,6 +158,7 @@ Optional fields:
 - **`location`**: Displayed after the `organisation` and before the `country`.
 - **`organisation`**: Displayed below the `title`.
 - **`role`**: Text in grey displayed next to the `title` on the right.
+- **`url`**: URL of the event.
 
 (_Note: any of these fields needs to be enclosed in double quotes if it includes
 a colon._)
@@ -172,6 +173,7 @@ past:
     organisation: Organisation
     role: — role
     title: A _Work_ Title
+    url: https://www.example.org/
   - country: UK
     date: Spring 1981
     location: Place Name
