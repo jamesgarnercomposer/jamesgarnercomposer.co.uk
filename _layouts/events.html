@@ -22,7 +22,17 @@ layout: default
     <li class="list-group-item">
       <div class="text-secondary">{{ event.date }}</div>
       <div>
-        <span class="fw-bold">{{ event.title | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+        {% if event.url %}
+          <a class="d-inline-block fw-bold text-reset" href="{{ event.url }}" rel="nofollow noreferrer">
+        {% else %}
+          <span class="fw-bold">
+        {% endif %}
+        {{ event.title | markdownify | remove: "<p>" | remove: "</p>" }}
+        {% if event.url %}
+          </a>
+        {% else %}
+          </span>
+        {% endif %}
         {% if event.role %}
           <span class="ms-1 text-secondary">{{ event.role }}</span>
         {% endif %}
