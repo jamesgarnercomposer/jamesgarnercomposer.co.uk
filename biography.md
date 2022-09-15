@@ -12,7 +12,7 @@ James has additionally been involved in the musical direction of multiple world 
 
 Alongside completing _Much Ado_, James is currently engaged in a period of research into theatre composition practice, supported by Arts Council England. 2022 will see performances of several new chamber and stage commissions, including the world premiere of _Beauty and the Seven Beasts_, a multimedia, multi-authored operetta (Fedora Prize Shortlisted) commissioned by The Opera Story, and a duo work for violinist Rose Hinton and RPO’s co-principal cellist Jonathan Ayling.
 
-James studied at the Guildhall School with Paul Whitmarsh, receiving a Worshipful Company of Goldsmiths scholarship, the Sydney Vale Award, and the Mary Ryan Award for Composition. He also studied privately with Matthew King. Previously, James was co-founder and music director of workshOPERA, who were nominated for the 2016 New British Music Theatre Award. In 2020, he collaborated on The Opera Story’s digital series _Episodes_, which was subsequently recognised with an RPS Inspiration Award.\
+James originally studied at the Guildhall School, winning the Mary Ryan Award for Composition. He is now taking postgraduate studies with David Sawer at the Royal Academy of Music, generously supported by the Munster Trust and the Maria Björnson Memorial Fund. Previously, James was co-founder and music director of workshOPERA, who were nominated for the 2016 New British Music Theatre Award. In 2020, he collaborated on The Opera Story’s digital series _Episodes_, which was subsequently recognised with an RPS Inspiration Award.\
 <br>
 
 ![James Garner performing at the piano](/assets/images/biography_photo.png)
