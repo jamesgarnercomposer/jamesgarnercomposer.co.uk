@@ -132,64 +132,6 @@ footnote: |
 (_Note: in a multi-line footnote, lines with colons don't need to be enclosed in
 double quotes, as shown in 'Line 1' above._)
 
-### Events Page
-
-Events are [data](https://jekyllrb.com/docs/datafiles/) properties defined in
-[`_data/events.yml`](_data/events.yml). They consist of objects containing list
-items, where the object ID is the event category (`past` or `upcoming`). Event
-list items must be defined under their respective event category. The order in
-which events are displayed is determined by the position of the list items under
-each category in the file. The event at the top is displayed first, the one at
-the bottom displayed last. Upcoming events is the event category displayed
-first by default.
-
-Required fields:
-
-- **`date`**: First line, displayed in grey.
-- **`title`**: Displayed in bold and below the `date`. It accepts Markdown
-  syntax.
-
-(_Note: any of these fields needs to be enclosed in double quotes if it includes
-a colon._)
-
-Optional fields:
-
-- **`country`**: Last line displayed.
-- **`location`**: Displayed after the `organisation` and before the `country`.
-- **`organisation`**: Displayed below the `title`.
-- **`role`**: Text in grey displayed next to the `title` on the right.
-- **`url`**: URL of the event.
-
-(_Note: any of these fields needs to be enclosed in double quotes if it includes
-a colon._)
-
-Example:
-
-```yaml
-past:
-  - country: UK
-    date: Summer 1990
-    location: Place Name
-    organisation: Organisation
-    role: — role
-    title: A _Work_ Title
-    url: https://www.example.org/
-  - country: UK
-    date: Spring 1981
-    location: Place Name
-    organisation: Organisation
-    role: — role
-    title: Event Title
-
-upcoming:
-  - country: UK
-    date: 2099
-    location: Place Name
-    organisation: Organisation
-    role: — role
-    title: A _Work_ Title
-```
-
 ## Plugins & Helpers
 
 Plugins can be used in the content section of Markdown and HTML files.
