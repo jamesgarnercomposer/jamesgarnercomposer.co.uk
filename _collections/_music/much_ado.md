@@ -2,11 +2,11 @@
 category: stage
 description: Full-length opera in two acts
 footnote: |
-  World Premiere: 2024, Monument National, Montréal, QC\
+  World Premiere: 2026, Monument National, Montréal, QC\
   Director: Amanda Kellock\
   Conductor: Stephen Hargreaves
 title: Much Ado
-year: "2024"
+year: "2026"
 ---
 
 For soloists, chorus and orchestra\
