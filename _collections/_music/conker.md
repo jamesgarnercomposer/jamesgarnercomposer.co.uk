@@ -1,6 +1,6 @@
 ---
 category: solo_and_chamber
-description: For solo piano
+description: for solo piano
 title: Conker
 subtitle: dedicated to Jenny Hubbard
 year: "2013"
