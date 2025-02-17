@@ -1,6 +1,6 @@
 ---
 category: vocal
-description: For mezzo-soprano voice and piano
+description: for mezzo-soprano voice and piano
 title: Two Emily Dickinson Songs
 year: "2015"
 ---
