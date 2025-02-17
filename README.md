@@ -20,7 +20,8 @@ title: Page Title
 ---
 ```
 
-(_Note: `title` needs to be enclosed in double quotes if it includes a colon._)
+(_Note: `title` needs to be enclosed in double quotation marks if it includes
+a colon._)
 
 ### Home Page
 
@@ -45,8 +46,8 @@ Example:
   text: Quote text.
 ```
 
-(_Note: any of these fields needs to be enclosed in double quotes if it includes
-a colon._)
+(_Note: any of these fields needs to be enclosed in double quotation marks if it
+includes a colon._)
 
 ### Biography Page
 
@@ -68,7 +69,8 @@ music_category:
   title: Music Category
 ```
 
-(_Note: `title` needs to be enclosed in double quotes if it includes a colon._)
+(_Note: `title` needs to be enclosed in double quotation marks if it includes
+a colon._)
 
 In this example, the music category ID is `music_category` and the title is
 'Music Category'.
@@ -86,11 +88,12 @@ Required fields:
 
 - **`category`**: Must match a [music category](#music-categories) ID.
 - **`title`**: Displayed in bold.
-- **`year`**: Displayed inside brackets and in bold next to the `title` on the
-  right. It _must_ be enclosed in brackets if it only includes numbers (i.e. not
-  alphanumeric).
+- **`year`**: Displayed inside double quotation marks and in bold next to the
+  `title` on the right. It _must_ be enclosed in double quotation marks if it
+  only includes numbers (i.e. not alphanumeric).
 
-(_Note: `title` needs to be enclosed in double quotes if it includes a colon._)
+(_Note: `title` needs to be enclosed in double quotation marks if it includes
+a colon._)
 
 Optional fields:
 
@@ -100,8 +103,8 @@ Optional fields:
 - **`subtitle`**: Text in grey displayed next to the `title` and `year` on the
   right. It accepts Markdown syntax.
 
-(_Note: any of these fields needs to be enclosed in double quotes if it includes
-a colon._)
+(_Note: any of these fields needs to be enclosed in double quotation marks if it
+includes a colon._)
 
 Example:
 
@@ -130,7 +133,7 @@ footnote: |
 ```
 
 (_Note: in a multi-line footnote, lines with colons don't need to be enclosed in
-double quotes, as shown in 'Line 1' above._)
+double quotation marks, as shown in 'Line 1' above._)
 
 ## Plugins & Helpers
 
@@ -209,8 +212,8 @@ Required fields:
   prefixed by an M-dash. It accepts Markdown syntax.
 - **`text`**: The quote text, displayed indented. It accepts Markdown syntax.
 
-(_Note: any of these fields needs to be enclosed in double quotes if it includes
-a colon._)
+(_Note: any of these fields needs to be enclosed in double quotation marks if it
+includes a colon._)
 
 ### Image Copyright
 
