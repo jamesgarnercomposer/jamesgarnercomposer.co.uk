@@ -1,6 +1,6 @@
 ---
 category: vocal
-description: For voice and piano
+description: for voice and piano (or guitar)
 footnote: |
   World Premiere: 05/07/19, Le Camp Musical du Saguenay-Lac-St-Jean, QC, Canada – Elisabeth Boudreault, Chris Gaudreault
 subtitle: from Much Ado
