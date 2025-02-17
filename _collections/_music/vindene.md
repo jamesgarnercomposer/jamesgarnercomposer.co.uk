@@ -1,6 +1,6 @@
 ---
 category: solo_and_chamber
-description: For string quartet
+description: for string quartet
 title: Vindene
 year: "2014"
 ---
