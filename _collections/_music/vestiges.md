@@ -6,6 +6,5 @@ footnote: |
 title: Vestiges
 year: "2023"
 ---
-
 Duration: 10’30"\
 <br>
