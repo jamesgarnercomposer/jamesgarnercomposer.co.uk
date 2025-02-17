@@ -1,6 +1,6 @@
 ---
 category: stage
-description: One-act interactive chamber opera for SEND audiences
+description: one-act chamber opera for SEND audiences
 footnote: |
   Original Direction: Anna Pool\
   Original Production Design: Anna Driftmier
