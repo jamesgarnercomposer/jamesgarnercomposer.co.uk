@@ -5,4 +5,4 @@ title: Banefyre
 year: 2024
 ---
 
-Commissioned by George Tarlton
+commissioned by George Tarlton
