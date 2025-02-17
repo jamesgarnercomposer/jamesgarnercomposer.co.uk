@@ -1,6 +1,6 @@
 ---
 category: stage
-description: Miniature operetta
+description: miniature operetta
 footnote: |
   Original Stage Direction: Oliver Platt\
   Original Musical Direction: Timothy Burke
