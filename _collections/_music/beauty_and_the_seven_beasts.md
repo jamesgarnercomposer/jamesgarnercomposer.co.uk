@@ -1,6 +1,6 @@
 ---
 category: stage
-description: Multimedia opera in two acts
+description: multimedia opera in two acts
 footnote: |
   World Premiere: 06/04/22, Brixton Jamm, London\
   Director: James Hurley\
