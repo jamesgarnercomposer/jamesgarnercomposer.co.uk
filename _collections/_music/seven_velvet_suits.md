@@ -1,6 +1,6 @@
 ---
 category: stage
-description: Song cycle from the play _Seven Velvet Suits_
+description: song cycle from the play _Seven Velvet Suits_
 footnote: |
   Original Direction: Anna Pool\
   Original Production Design: Anna Driftmier
