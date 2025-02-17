@@ -1,6 +1,6 @@
 ---
 category: stage
-description: Incidental music
+description: incidental music
 title: Three Sisters
 year: "2013"
 ---
