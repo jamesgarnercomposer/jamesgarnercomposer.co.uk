@@ -1,6 +1,6 @@
 ---
 category: solo_and_chamber
-description: For violin and cello
+description: for violin and cello
 footnote: |
   World Premiere: TBA
 title: Numb Spicy
