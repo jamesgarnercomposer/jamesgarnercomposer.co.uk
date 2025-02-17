@@ -1,6 +1,6 @@
 ---
 category: stage
-description: One-act chamber opera
+description: one-act chamber opera
 footnote: |
   Original Direction: Anna Pool\
   Original Production Design: Anna Driftmier
