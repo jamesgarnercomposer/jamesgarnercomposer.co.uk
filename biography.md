@@ -16,6 +16,3 @@ James graduated from the Guildhall School with the Muriel Dawson/Mary Ryan Award
 
 His work has been generously supported by the Arts Council and the Maria Björnson Fund.\
 <br>
-
-![James Garner performing at the piano](/assets/images/biography_photo.png)
-<div class="image-footnote">© Natalia Malysheva</div>
