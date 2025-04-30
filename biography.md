@@ -12,7 +12,7 @@ James is in regular demand in the UK as a composer for participatory and outreac
 
 This Spring, James is composing a film opera short with the Canadian novelist Lisa Moore for Opera on the Avalon’s New Commission Series, and leading participatory projects for Turtle Key Arts in association with the Royal College, Oxford University, and the V&A Museum.
 
-James graduated from the Guildhall School with the Muriel Dawson/Mary Ryan Award for Composition. He is also a recent graduate from the Royal Academy, where he studied with David Sawer and additionally with Hans Abrahamsen, supported by the Munster Trust. Previously, James was co-founder and music director of workshOPERA, who were nominated for a New British Music Theatre Award.
+James graduated from the Guildhall School with the Richmond Concert Society Award for Composition. He is also a recent graduate from the Royal Academy, where he studied with David Sawer and additionally with Hans Abrahamsen, supported by the Munster Trust. Previously, James was co-founder and music director of workshOPERA, who were nominated for a New British Music Theatre Award.
 
 His work has been generously supported by the Arts Council and the Maria Björnson Fund.\
 <br>
