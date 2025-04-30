@@ -12,3 +12,5 @@ year: "2022"
 
 For soloists, chamber ensemble & electronics\
 Commissioned by The Opera Story; shortlisted for the Fedora Opera Prize 2021
+
+{% include quote.html quotee="Seen and Heard International" text="James Garner's music creates a tension which hurtles us towards the denouement." %}
