@@ -4,7 +4,8 @@ description: multimedia opera in two acts
 footnote: |
   World Premiere: 06/04/22, Brixton Jamm, London\
   Director: James Hurley\
-  Conductor: Berrak Dyer
+  Conductor: Berrak Dyer\
+  Mezzo-sopranos: Rachael Lloyd and Katherine Aitken
 subtitle: — composer of 'Wrath'
 title: Beauty and the Seven Beasts
 ---
