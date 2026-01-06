@@ -18,7 +18,7 @@ layout: default
 </div>
 
 <div class="accordion accordion-flush my-3" id="music-accordion">
-  {% assign music = site.music | sort_natural | reverse %}
+  {% assign music = site.music | sort_natural %}
   {% for item in music %}
     {% if item.category == page.category %}
       <div class="accordion-item border-0 border-top mt-3 pt-3">
@@ -26,7 +26,7 @@ layout: default
           <button aria-controls="accordion-item-{{ forloop.index }}" aria-expanded="false" class="accordion-button align-items-start border-0 collapsed container-fluid justify-content-start py-0" data-bs-target="#accordion-item-{{ forloop.index }}" data-bs-toggle="collapse" type="button">
             <span class="pe-2 row row-cols-1">
               <span class="col mb-1">
-                <span class="fw-bold">{{ item.title }} ({{ item.year }})</span>
+                <span class="fw-bold">{{ item.title }}</span>
                 {% if item.subtitle %}
                   <span class="ps-1 text-secondary">{{ item.subtitle | markdownify | remove: "<p>" | remove: "</p>" }}</span>
                 {% endif %}

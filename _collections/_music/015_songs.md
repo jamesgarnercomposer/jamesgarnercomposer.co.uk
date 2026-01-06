@@ -4,7 +4,6 @@ description: for solo piano
 footnote: |
   World Premiere: 24/04/23, Royal Academy of Music, London, UK – Joseph Havlat
 title: Songs
-year: "2023"
 ---
 
 Duration: 10’\

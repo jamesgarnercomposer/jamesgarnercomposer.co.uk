@@ -2,7 +2,6 @@
 category: stage
 description: incidental music
 title: Three Sisters
-year: "2013"
 ---
 
 for David Mamet’s translation of the play by Anton Chekhov\

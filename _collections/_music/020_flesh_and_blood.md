@@ -2,10 +2,9 @@
 category: stage
 description: micro monodrama
 footnote: |
-  World Premiere: TBA (online)\
+  World Premiere: 2026 TBA (online)\
   Singer: Evan Lindberg
 title: Flesh and Blood
-year: "2025"
 ---
 
 For solo bass-baritone voice, viola, cello & double bass\

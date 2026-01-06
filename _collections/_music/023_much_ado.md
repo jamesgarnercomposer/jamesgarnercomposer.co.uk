@@ -2,11 +2,10 @@
 category: stage
 description: opera in two acts
 footnote: |
-  World Premiere: TBA, Monument National, Montréal, QC\
+  World Premiere: TBA\
   Director: Amanda Kellock\
   Conductor: Stephen Hargreaves
 title: Much Ado
-year: "TBA"
 ---
 
 For soloists, chorus and orchestra\

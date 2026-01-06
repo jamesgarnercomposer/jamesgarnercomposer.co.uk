@@ -2,7 +2,6 @@
 category: solo_and_chamber
 description: for string quartet
 title: Vindene
-year: "2014"
 ---
 
 Written for players of Aurora Orchestra\

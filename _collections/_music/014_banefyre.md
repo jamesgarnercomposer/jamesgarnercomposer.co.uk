@@ -4,7 +4,6 @@ description: for guitar and four instruments
 footnote: |
   World Premiere: TBA
 title: Banefyre
-year: TBA
 ---
 
 commissioned by George Tarlton\

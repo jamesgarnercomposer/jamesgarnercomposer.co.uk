@@ -1,11 +1,10 @@
 ---
 category: stage
-description: song cycle from the play _Seven Velvet Suits_
+description: songs for the play _Seven Velvet Suits_
 footnote: |
   Original Direction: Anna Pool\
   Original Production Design: Anna Driftmier
 title: Seven Velvet Suits
-year: "2016"
 ---
 
 For baritone and piano\

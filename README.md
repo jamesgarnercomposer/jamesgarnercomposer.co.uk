@@ -81,16 +81,12 @@ Music items are a [collection](https://jekyllrb.com/docs/collections/) of files
 in [`_collections/_music/`](_collections/_music/). A music item file should use
 the `.md` file extension in order to enable Markdown syntax. Similar to other
 pages, it must define a [Front Matter](https://jekyllrb.com/docs/front-matter/)
-at the top and the item content underneath it. Music items are sorted in
-descending order by year within each category.
+at the top and the item content underneath it. Music items are sorted by the filename within each category.
 
 Required fields:
 
 - **`category`**: Must match a [music category](#music-categories) ID.
 - **`title`**: Displayed in bold.
-- **`year`**: Displayed inside double quotation marks and in bold next to the
-  `title` on the right. It _must_ be enclosed in double quotation marks if it
-  only includes numbers (i.e. not alphanumeric).
 
 (_Note: `title` needs to be enclosed in double quotation marks if it includes
 a colon._)
@@ -100,8 +96,8 @@ Optional fields:
 - **`description`**: Displayed below the `title`. It accepts Markdown syntax.
 - **`footnote`**: Last paragraph displayed in grey after the music item content.
   It accepts Markdown syntax.
-- **`subtitle`**: Text in grey displayed next to the `title` and `year` on the
-  right. It accepts Markdown syntax.
+- **`subtitle`**: Text in grey displayed next to the `title` on the right. It
+  accepts Markdown syntax.
 
 (_Note: any of these fields needs to be enclosed in double quotation marks if it
 includes a colon._)
@@ -115,7 +111,6 @@ description: Music item description
 footnote: Music item footnote.
 subtitle: — from _Work Title_
 title: Music Item Title
-year: "2021"
 ---
 
 Music item content.

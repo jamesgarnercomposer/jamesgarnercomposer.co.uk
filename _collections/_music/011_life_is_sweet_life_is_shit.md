@@ -3,7 +3,6 @@ category: stage
 description: miniature operetta
 footnote: "Online Premiere: 06/08/20"
 title: Life Is Sweet / Life Is Shit
-year: "2020"
 ---
 
 For mezzo-soprano, baritone and piano\
