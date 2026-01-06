@@ -7,10 +7,10 @@ footnote: |
   Conductor: Berrak Dyer
 subtitle: — composer of 'Wrath'
 title: Beauty and the Seven Beasts
-year: "2022"
 ---
 
 For soloists, chamber ensemble & electronics\
+Text by Anna Pool\
 Commissioned by The Opera Story; shortlisted for the Fedora Opera Prize 2021\
 <br>
 
