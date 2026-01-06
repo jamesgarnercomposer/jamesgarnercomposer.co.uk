@@ -8,6 +8,7 @@ footnote: |
   Mezzo-sopranos: Rachael Lloyd and Katherine Aitken
 subtitle: — composer of 'Wrath'
 title: Beauty and the Seven Beasts
+year: "2022"
 ---
 
 For soloists, chamber ensemble & electronics\
