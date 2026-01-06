@@ -1,8 +1,9 @@
 ---
 category: vocal
-description: song cycle for soprano voice and harp
+description: song cycle for soprano voice and piano
 title: Années naïves et paysages
-year: "TBA"
+footnote: |
+  World Premiere: 2026 TBA
 ---
 
 Text by Elisabeth Boudreault\
