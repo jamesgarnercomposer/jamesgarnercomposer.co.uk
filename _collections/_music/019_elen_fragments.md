@@ -7,5 +7,4 @@ title: Elen Fragments
 ---
 
 Text after Gus Elen (from _Wait Till the Work Comes Round_)\
-Duration: 18'\
-<br>
+Duration: 18'

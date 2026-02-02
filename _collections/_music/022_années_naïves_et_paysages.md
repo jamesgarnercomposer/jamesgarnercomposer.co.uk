@@ -7,5 +7,4 @@ footnote: |
 ---
 
 Text by Elisabeth Boudreault\
-Duration: c.30’\
-<br>
+Duration: c.30’

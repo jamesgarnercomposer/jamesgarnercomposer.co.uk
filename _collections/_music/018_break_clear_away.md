@@ -7,5 +7,4 @@ title: Break Clear Away
 ---
 
 Text after John Muir and Anna Tsing\
-Duration: 4’30"\
-<br>
+Duration: 4’30"

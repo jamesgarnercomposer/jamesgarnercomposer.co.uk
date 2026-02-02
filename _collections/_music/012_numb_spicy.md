@@ -6,5 +6,4 @@ title: Numb Spicy
 
 Part of 'Amuse-Bouches', a new collection of violin-cello miniatures\
 Commissioned by Rose Hinton and Jonathan Ayling\
-Duration: 1'\
-<br>
+Duration: 1'

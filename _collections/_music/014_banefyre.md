@@ -6,5 +6,4 @@ footnote: |
 title: Banefyre
 ---
 
-commissioned by George Tarlton\
-<br>
+commissioned by George Tarlton

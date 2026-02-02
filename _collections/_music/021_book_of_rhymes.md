@@ -8,4 +8,3 @@ title: Book of Rhymes
 ---
 
 Commissioned by Lizzie Knatt for the 2025 Bloomsbury Festival.
-<br>
