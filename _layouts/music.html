@@ -18,7 +18,7 @@ layout: default
 </div>
 
 <div class="accordion accordion-flush my-3" id="music-accordion">
-  {% assign music = site.music | sort_natural %}
+  {% assign music = site.music %}
   {% for item in music %}
     {% if item.category == page.category %}
       <div class="accordion-item border-0 border-top mt-3 pt-3">
