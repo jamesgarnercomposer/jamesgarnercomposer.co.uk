@@ -18,5 +18,3 @@ Commissioned by workshOPERA\
 {% include quote.html quotee="Bachtrack" text="A magically surreal, amusing and moving little opera (…) gleaming with creativity and humour. Melodious, atmospheric music by Garner brings warmth, sincerity and tension to a fierily original libretto. (His) restrained palette of piano, celeste, wind and strings makes an alternatively strong and delicate sound..." %}
 
 {% include quote.html quotee="Sarah Walker CBE, mezzo-soprano" text="It's not often I come out of a performance of anything wreathed in smiles and feeling at ease with the world..." %}
-
-{% include vimeo.html video_id="101817616" %}
