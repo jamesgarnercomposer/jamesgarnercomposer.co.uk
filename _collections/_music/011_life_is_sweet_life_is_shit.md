@@ -10,5 +10,3 @@ Libretto by David Parry\
 Duration: 4’\
 Commissioned by The Opera Story for “Episodes”, winner of the RPS Inspiration Award 2020.\
 <br>
-
-{% include youtube.html video_id="zaf0SEfvDu0" %}
