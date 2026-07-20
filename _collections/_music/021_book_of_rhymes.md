@@ -6,4 +6,5 @@ footnote: |
 title: Book of Rhymes
 ---
 
-Commissioned by Lizzie Knatt for the 2025 Bloomsbury Festival.
+Commissioned by Lizzie Knatt for the 2025 Bloomsbury Festival.\
+Duration: 15'
